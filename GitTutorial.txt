@@ -1,0 +1,16 @@
+GIT Tutorial
+	- git config --global user.name "TestUser"
+	- git config --global user.email "allqatutorial@gmail.com"
+
+	- git init
+	- git status (Untracked file)
+
+	- git add GitTutorial.txt
+	- git status (New File)
+
+	- git commit -m "Tutorial Commit"
+	- git status --short
+
+GIT HUB
+	- git remote add origin URL
+	- git push origin master
